@@ -1,0 +1,13 @@
+/Users/mak/Projects/lab3qqclownzxc_dyrachoy/lab3qqclownzxc_dyrachoy/bin/Debug/netcoreapp3.1/lab3qqclownzxc_dyrachoy.deps.json
+/Users/mak/Projects/lab3qqclownzxc_dyrachoy/lab3qqclownzxc_dyrachoy/bin/Debug/netcoreapp3.1/lab3qqclownzxc_dyrachoy.runtimeconfig.json
+/Users/mak/Projects/lab3qqclownzxc_dyrachoy/lab3qqclownzxc_dyrachoy/bin/Debug/netcoreapp3.1/lab3qqclownzxc_dyrachoy.runtimeconfig.dev.json
+/Users/mak/Projects/lab3qqclownzxc_dyrachoy/lab3qqclownzxc_dyrachoy/bin/Debug/netcoreapp3.1/lab3qqclownzxc_dyrachoy.dll
+/Users/mak/Projects/lab3qqclownzxc_dyrachoy/lab3qqclownzxc_dyrachoy/bin/Debug/netcoreapp3.1/lab3qqclownzxc_dyrachoy.pdb
+/Users/mak/Projects/lab3qqclownzxc_dyrachoy/lab3qqclownzxc_dyrachoy/obj/Debug/netcoreapp3.1/lab3qqclownzxc_dyrachoy.csproj.AssemblyReference.cache
+/Users/mak/Projects/lab3qqclownzxc_dyrachoy/lab3qqclownzxc_dyrachoy/obj/Debug/netcoreapp3.1/lab3qqclownzxc_dyrachoy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mak/Projects/lab3qqclownzxc_dyrachoy/lab3qqclownzxc_dyrachoy/obj/Debug/netcoreapp3.1/lab3qqclownzxc_dyrachoy.AssemblyInfoInputs.cache
+/Users/mak/Projects/lab3qqclownzxc_dyrachoy/lab3qqclownzxc_dyrachoy/obj/Debug/netcoreapp3.1/lab3qqclownzxc_dyrachoy.AssemblyInfo.cs
+/Users/mak/Projects/lab3qqclownzxc_dyrachoy/lab3qqclownzxc_dyrachoy/obj/Debug/netcoreapp3.1/lab3qqclownzxc_dyrachoy.csproj.CoreCompileInputs.cache
+/Users/mak/Projects/lab3qqclownzxc_dyrachoy/lab3qqclownzxc_dyrachoy/obj/Debug/netcoreapp3.1/lab3qqclownzxc_dyrachoy.dll
+/Users/mak/Projects/lab3qqclownzxc_dyrachoy/lab3qqclownzxc_dyrachoy/obj/Debug/netcoreapp3.1/lab3qqclownzxc_dyrachoy.pdb
+/Users/mak/Projects/lab3qqclownzxc_dyrachoy/lab3qqclownzxc_dyrachoy/obj/Debug/netcoreapp3.1/lab3qqclownzxc_dyrachoy.genruntimeconfig.cache
